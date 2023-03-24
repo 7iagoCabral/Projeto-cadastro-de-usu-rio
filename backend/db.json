@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Igor",
+      "email": "email@email.com"
+    },
+    {
+      "name": "Tiago Cabral da Fonseca",
+      "email": "tiago.cf@yahoo.com",
+      "id": 3
+    },
+    {
+      "name": "Gabriel",
+      "email": "email@email.com",
+      "id": 4
+    }
+  ]
+}
